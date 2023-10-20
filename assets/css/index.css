@@ -154,9 +154,9 @@ body {
   }
 
   .container__button {
-    margin-bottom: 60px;
     width: 200px;
     margin: auto;
+    margin-bottom: 60px;
   }
 
   .footer {
